@@ -1,0 +1,58 @@
+
+Understanding Agile Principles and Practices in DevOps 
+
+Instructions:
+
+In this assignment, you will explore the fundamental principles and practices of Agile methodologies in the context of DevOps. The goal is to deepen your understanding of how Agile principles can be integrated into the DevOps workflow to enhance collaboration, efficiency, and product quality. You are expected to research and provide comprehensive answers to the following questions. You may use relevant examples and real-world scenarios to support your answers. 
+
+Notes:
+
+Answer any 3 from section 1.
+Each question from Section 1 consists of 10 points.
+Section 2 is mandatory.
+Section 2 consists of 20 points.
+Section 1: 
+
+Question 1: Agile Principles
+
+1.1 Explain the core principles of Agile methodology. How do these principles emphasize adaptability and customer collaboration? 
+
+1.2 Describe how Agile principles align with the DevOps philosophy. Provide specific examples of how Agile principles can contribute to faster delivery cycles and improved software quality in a DevOps environment. 
+
+Question 2: Agile Practices in DevOps
+
+2.1 Explore the concept of "Scrum" as an Agile framework. Highlight the roles, ceremonies, and artifacts involved in Scrum. Explain how Scrum can synergize with DevOps practices to facilitate continuous integration and continuous delivery (CI/CD). 
+
+2.2 Kanban is another Agile approach that is often integrated into DevOps workflows. Define Kanban and discuss how its visual management principles can enhance collaboration between development and operations teams. Provide a step-by-step scenario of how Kanban can be used to streamline the release process in a DevOps context. 
+
+Question 3: User Stories and Backlog Refinement
+
+3.1 Elaborate on the concept of "user stories" in Agile. How do user stories help bridge communication gaps between developers and stakeholders? How can user stories be utilized to prioritize tasks in a DevOps pipeline? 
+
+3.2 Explain the importance of backlog refinement in Agile methodology. Detail the activities involved in backlog refinement and how it contribute to effective sprint planning and execution in a DevOps environment. 
+
+Question 4: Continuous Testing and Feedback
+
+4.1 Define the significance of continuous testing in both Agile and DevOps. How does continuous testing contribute to early bug detection and overall product quality improvement? 
+
+4.2 Discuss the concept of "continuous feedback" in the context of Agile and DevOps. How can a constant feedback loop enhance collaboration among cross-functional teams? Provide examples of feedback mechanisms that can be employed to improve software development and deployment processes. 
+
+Question 5: Agile Metrics for DevOps
+
+5.1 Identify and explain key performance indicators (KPIs) that are relevant to measuring Agile and DevOps success. How do these metrics provide insights into the efficiency and effectiveness of the development and operations processes? 
+
+5.2 Select one Agile metric and one DevOps metric and elaborate on how they are interconnected. Discuss how improvements in the Agile metric can positively impact the corresponding DevOps metric, and vice versa.  
+
+Section 2:
+
+Question: Take any topic from Agile or a Topic that has been taught so far. Do a digging around the topic to find out something that is not taught in the class and make a video on that topic. The video needs to be uploaded to YouTube (either make it public or unlisted). The length of the video should be between 1 min to 5 min.
+
+
+Submission Guidelines:
+
+- Your assignment should be typed and well-structured.
+
+- Properly cite any external sources you use for your research.
+
+- Submit your assignment in a PDF format. 
+
